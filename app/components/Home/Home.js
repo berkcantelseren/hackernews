@@ -1,3 +1,9 @@
+import Table from "./Table/Table";
+
 export default function HomePage() {
-  return <div>sadasdas</div>;
+  return (
+    <div>
+      <Table />
+    </div>
+  );
 }
