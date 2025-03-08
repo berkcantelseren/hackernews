@@ -16,6 +16,7 @@ export default function Table() {
             <td>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias,
               dolorem.
+              <span>89 points</span>
             </td>
           </tr>
         </tbody>
