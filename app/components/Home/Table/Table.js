@@ -1,6 +1,6 @@
 export default function Table() {
   return (
-    <div className="w-[80%] mx-auto mt-4">
+    <div className="w-[85%] mx-auto mt-4">
       <table>
         <tbody>
           <tr>
