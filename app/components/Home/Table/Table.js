@@ -5,7 +5,7 @@ export default function Table() {
         <tbody>
           <tr>
             <td>1.</td>
-            <td>^</td>
+            <td>↑</td>
             <td>Lorem ipsum dolor sit amet.</td>
           </tr>
         </tbody>
