@@ -6,7 +6,10 @@ export default function Table() {
           <tr>
             <td>1.</td>
             <td>↑</td>
-            <td>Lorem ipsum dolor sit amet.</td>
+            <td>
+              AI tools are spotting errors in research papers: inside a growing
+              movement
+            </td>
           </tr>
         </tbody>
       </table>
