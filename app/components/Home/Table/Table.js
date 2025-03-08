@@ -8,7 +8,7 @@ export default function Table() {
             <td>↑</td>
             <td>
               AI tools are spotting errors in research papers: inside a growing
-              movement
+              movement <span>(nature.com)</span>
             </td>
           </tr>
         </tbody>
